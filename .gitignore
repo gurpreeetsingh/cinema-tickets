@@ -1,0 +1,6 @@
+.idea
+*.sh
+*.bat
+*.class
+*.iml
+*.ini
